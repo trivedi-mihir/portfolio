@@ -11,7 +11,7 @@ The website is designed to represent my journey as a **Full Stack Developer**, *
 🔗 **Portfolio Website:-**
 
 ```text
-https://your-portfolio.netlify.app
+https://trivedi-mihir.github.io/portfolio/
 ```
 
 ---
