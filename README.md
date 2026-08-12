@@ -1,569 +1,901 @@
-# 💼 Mihir Trivedi — Personal Portfolio
+💼 Mihir Trivedi — Personal Portfolio
 
-> A modern, responsive, and interactive developer portfolio built to showcase my skills, projects, education, certifications, achievements, and software development journey.
+A modern, responsive, and interactive developer portfolio showcasing my skills, projects, education, certifications, achievements, and software development journey.
 
-🌐 **Live Portfolio:**
-https://trivedi-mihir.github.io/portfolio/
+🌐 Live Portfolio:https://mihirtrivedi.dev/
 
----
+👨‍💻 About
 
-## 👨‍💻 About
+I'm Mihir Trivedi, a B.Tech Information Technology student at Indus University and an aspiring Full Stack Developer & Software Engineer.
 
-I'm **Mihir Trivedi**, a B.Tech Information Technology student at **Indus University** and an aspiring **Full Stack Developer & Software Engineer**.
+I enjoy transforming ideas into practical software applications with clean interfaces, useful functionality, and a focus on real-world problems.
 
-I enjoy transforming ideas into practical software solutions and building modern web applications with clean UI, efficient functionality, and a focus on real-world problems.
+My primary areas of interest include:
 
-My primary interests include:
+💻 Full Stack Development
 
-* 💻 Full Stack Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 🔐 Cybersecurity
-* 🌐 Web Development
-* 🧠 Data Structures & Algorithms
-* 🚀 Hackathons & Open Source
+🤖 Artificial Intelligence & Machine Learning
 
-The portfolio represents my technical growth, projects, certifications, achievements, and ongoing learning journey.
+🔐 Cybersecurity
 
----
+🌐 Web Development
 
-# ✨ Features
+🧠 Data Structures & Algorithms
 
-## 🏠 Interactive Hero Section
+🚀 Hackathons & Open Source
 
-* Professional introduction
-* Full Stack Developer / Software Engineer branding
-* Open-to-work status
-* Animated statistics
-* Project navigation
-* Resume download
-* Modern gradient background
-* Floating particle effects
+This portfolio is designed to present both my technical capabilities and my continuous learning journey as a developer.
 
-The hero section highlights key metrics including projects, DSA problems, certifications, and technologies.
+✨ Portfolio Highlights
 
----
+🏠 Interactive Hero Section
 
-## 👨‍💻 About Me
-
-The About section includes:
-
-* Professional introduction
-* Career objective
-* Technical interests
-* Development focus
-* Hackathon participation
-* DSA achievements
-* Certifications
-* Cybersecurity experience
-
-Current focus areas include Full Stack Development, AI/ML, Cybersecurity, Open Source, and Hackathons.
-
----
-
-## 🛠️ Skills & Expertise
-
-Technical skills are organized into dedicated categories:
-
-### Programming Languages
-
-* Java
-* JavaScript
-* Python
-* PHP
-* C
-
-### Frontend Development
-
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-* React.js
-* Chart.js
-
-### Backend & Database
-
-* Node.js
-* MySQL
-* MongoDB
-* REST API Design
-
-### Tools & Core CS
-
-* Git
-* GitHub
-* VS Code
-* Linux
-* Postman
-* XAMPP
-* OOP
-* DSA
-* DBMS
-* Operating Systems
-* Computer Networks
-
-The portfolio uses animated skill-progress indicators to visually represent technical proficiency.
-
----
-
-# 🚀 Featured Projects
-
-## 🌱 EcoReward Pro
-
-**AI-Assisted Smart Waste Management Platform**
-
-A web-based waste management platform designed to encourage responsible waste disposal through AI-assisted waste classification, eco-rewards, analytics, and pickup scheduling.
-
-### Technologies
-
-* HTML5
-* CSS3
-* JavaScript
-* Tailwind CSS
-* Chart.js
-* TensorFlow.js
-
-### Highlights
-
-* AI-assisted waste classification
-* Eco-reward system
-* Analytics dashboard
-* Pickup scheduling
-* Browser-based AI
-* No backend required
-
----
-
-## 🧠 ProQuiz
-
-**Quiz Management System**
-
-A full-stack quiz management application designed for students and administrators.
-
-### Technologies
-
-* PHP
-* MySQL
-* HTML5
-* CSS3
-* JavaScript
-
-### Highlights
-
-* Student & admin roles
-* Session-based authentication
-* Quiz timers
-* Automated scoring
-* Attempt history
-* CSRF-safe form handling
-
----
-
-## 📊 Student Performance Compare
-
-**Student Performance Analysis Platform**
-
-A web application designed to help educators compare student performance, generate analytical reports, and visualize academic trends.
-
-### Technologies
-
-* Node.js
-* MongoDB
-* HTML5
-* CSS3
-* JavaScript
-
-### Highlights
-
-* Student performance comparison
-* Dynamic charts
-* Analytical reports
-* RESTful APIs
-* Search and filtering
-* Data export functionality
-
-The current portfolio presents these three projects with their respective technology stacks and GitHub/live-demo areas.
-
----
-
-# 🎓 Education
-
-### B.Tech — Information Technology
-
-**Indus University, Gujarat, India**
-
-**2023 – 2027 (Expected)**
-
-### Relevant Coursework
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Software Engineering
-* Web Technologies
-
----
-
-# 🏆 Achievements
-
-* 🏆 **Smart India Hackathon 2025** — National-level participant
-* 💻 **50+ DSA Problems Solved** — LeetCode & HackerRank
-* 🎓 **5+ Industry Certifications**
-* 🚀 **3+ Full Stack Applications**
-* 🛡️ **Deloitte Cybersecurity Job Simulation**
-
-These achievements are currently highlighted directly within the portfolio's About section.
-
----
-
-# 📜 Certifications & Professional Learning
-
-Certifications and professional learning experiences include:
-
-* **GeeksforGeeks** — Full Stack Web Development
-* **GeeksforGeeks** — DevOps Skill Up
-* **Cisco Networking Academy** — Introduction to Cybersecurity
-* **Google** — Google Analytics Certification
-* **Microsoft Learn** — Education Transformation Framework
-* **Deloitte × Forage** — Cybersecurity Job Simulation
-
-The portfolio also presents the Deloitte cybersecurity simulation as hands-on experience involving threat analysis, security assessment, and incident-response workflows.
-
----
-
-# 🧭 Developer Journey
-
-The portfolio includes an interactive **Journey / Experience timeline** showing important stages of my development journey.
-
-It covers:
-
-* Academic development
-* Full Stack development
-* Project building
-* Hackathon participation
-* Certifications
-* Cybersecurity learning
-* Current career goals
-
-The timeline currently concludes with an **Open to Opportunities** stage for Software / Full Stack Developer internships and freelance collaborations.
-
----
-
-# 🎨 UI & Design
-
-The portfolio is designed with a modern developer-focused visual style.
-
-### Design Features
-
-* Clean professional interface
-* Responsive layouts
-* Modern cards
-* Gradient accents
-* Glass-style navigation
-* Smooth hover interactions
-* Scroll animations
-* Animated counters
-* Floating particles
-* Progress indicators
-* Mobile navigation
-* Dark mode
-* Custom preloader
-* Back-to-top button
-* Scroll progress indicator
-
----
-
-# 🌙 Dark Mode
-
-The website includes a complete **Light / Dark theme system**.
-
-Users can switch between themes using the theme toggle in the navigation.
-
-The selected theme is stored locally so the preference can persist between visits.
-
----
-
-# ⏳ Custom Preloader
-
-A custom animated preloader is displayed when the website loads.
+The landing section provides a quick introduction to my developer profile.
 
 It includes:
 
-* Animated progress ring
-* Mihir branding
-* Loading percentage
-* Animated gradient
-* Floating ambient effects
-* Grid background
-* Orbiting particles
+Full Stack Developer & Software Engineer branding
 
-This provides a polished transition into the main portfolio experience.
+Open-to-work status
 
----
+Animated project and achievement statistics
 
-# 📱 Responsive Design
+Direct project navigation
 
-The portfolio is optimized for multiple screen sizes:
+Resume download
 
-* 🖥️ Desktop
-* 💻 Laptop
-* 📱 Mobile
-* 📲 Tablet
+Modern visual background
 
-Responsive CSS adjusts:
+Animated particles
 
-* Navigation
-* Grid layouts
-* Typography
-* Buttons
-* Forms
-* Project cards
-* Skills layout
-* Contact section
+Responsive layout
 
----
+Current highlighted metrics include:
 
-# ♿ Accessibility
+8+ Full Stack Projects
 
-Accessibility has been considered throughout the website.
+50+ DSA Problems
+
+5+ Certifications
+
+6+ Technology Areas
+
+👨‍💻 About Me
+
+The About section provides an overview of my:
+
+Development interests
+
+Career objective
+
+Technical focus
+
+Project-building experience
+
+Hackathon participation
+
+DSA practice
+
+Certifications
+
+Cybersecurity learning
+
+My current career objective is to pursue a Software Developer or Full Stack Developer internship where I can apply my technical knowledge, contribute to meaningful projects, and continue improving through real-world development.
+
+🛠️ Skills & Expertise
+
+The portfolio presents technical skills across multiple categories.
+
+Programming Languages
+
+Java
+
+JavaScript
+
+Python
+
+PHP
+
+C
+
+Frontend Development
+
+HTML5
+
+CSS3
+
+Tailwind CSS
+
+Bootstrap
+
+React.js
+
+Chart.js
+
+Backend & Database
+
+Node.js
+
+MySQL
+
+MongoDB
+
+REST API Design
+
+Tools & Core Computer Science
+
+Git
+
+GitHub
+
+VS Code
+
+Linux
+
+Postman
+
+XAMPP
+
+Object-Oriented Programming
+
+Data Structures & Algorithms
+
+Database Management Systems
+
+Operating Systems
+
+Computer Networks
+
+The portfolio uses animated skill indicators to present technical proficiency in an easy-to-understand visual format.
+
+🚀 Featured Projects
+
+The portfolio currently showcases a collection of projects covering AI, full-stack development, productivity, automation, games, and web applications.
+
+🌱 EcoReward Pro
+
+AI-Assisted Smart Waste Management Platform
+
+A browser-based smart waste management platform designed to encourage responsible waste disposal through AI-assisted classification, eco-rewards, analytics, pickup scheduling, badges, and leaderboards.
+
+Technologies
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Tailwind CSS
+
+Chart.js
+
+TensorFlow.js
+
+Highlights
+
+AI-assisted waste classification
+
+Browser-based AI processing
+
+Eco-reward system
+
+Analytics dashboard
+
+Pickup scheduling
+
+Badges and leaderboard
+
+Fully client-side implementation
+
+🔗 GitHub:https://github.com/trivedi-mihir/eco-reward
+
+🧠 ProQuiz — Quiz Management
+
+Full-Stack Quiz Management Platform
+
+A quiz management application designed for students and administrators with authentication, role-based access, timed quizzes, automated scoring, and attempt tracking.
+
+Technologies
+
+PHP
+
+MySQL
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Highlights
+
+Student and administrator roles
+
+Session-based authentication
+
+Quiz timers
+
+Automated scoring
+
+Attempt history
+
+Hints
+
+CSRF-safe forms
+
+🔗 GitHub:https://github.com/trivedi-mihir/quiz-game
+
+📊 Student Performance Compare
+
+Student Performance Analysis Platform
+
+An educator-focused web application for comparing student performance, visualizing academic trends, generating analytical reports, and working with data through RESTful APIs.
+
+Technologies
+
+Node.js
+
+MongoDB
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Highlights
+
+Student performance comparison
+
+Dynamic charts
+
+Analytical reports
+
+RESTful APIs
+
+Search and filtering
+
+Data export
+
+🔗 GitHub:https://github.com/trivedi-mihir
+
+✅ todoo-tasks
+
+Modern Task & Reminder Application
+
+A responsive productivity application for managing tasks and reminders with priorities, due dates, search, filtering, progress tracking, dark mode, and browser persistence.
+
+Technologies
+
+HTML5
+
+CSS3
+
+JavaScript
+
+LocalStorage
+
+Highlights
+
+Task management
+
+Priorities
+
+Due dates
+
+Search and filtering
+
+Progress ring
+
+Dark mode
+
+LocalStorage persistence
+
+Responsive interface
+
+🔗 GitHub:https://github.com/trivedi-mihir/todo-web
+
+🌐 Live Demo:https://trivedi-mihir.github.io/todo-web/
+
+⚡ Electricity Bill Generator
+
+A responsive electricity bill calculator based on slab-wise rates with validation and instant results.
+
+Technologies
+
+PHP
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Highlights
+
+Slab-based billing
+
+Client-side validation
+
+Server-side validation
+
+Responsive interface
+
+Instant calculation
+
+🔗 GitHub:https://github.com/trivedi-mihir/bill-generator
+
+🗳️ Online Voting System
+
+An interactive voting application designed around session-based voting and real-time result visualization.
+
+Technologies
+
+PHP
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Sessions
+
+Highlights
+
+One-vote-per-user session handling
+
+Live percentage results
+
+Progress bars
+
+Winner detection
+
+Dashboard-style interface
+
+🔗 GitHub:https://github.com/trivedi-mihir/voting-system
+
+📰 AI News Email Agent
+
+Automated AI-Powered Technology Newsletter
+
+A Python automation workflow that collects technology news, generates AI-powered summaries, and sends formatted HTML newsletters through email.
+
+Technologies
+
+Python
+
+NewsAPI
+
+Groq
+
+SMTP
+
+Highlights
+
+Automated news collection
+
+AI-generated summaries
+
+HTML email newsletters
+
+Scheduled automation workflow
+
+🔗 GitHub:https://github.com/trivedi-mihir/news-agent
+
+🎮 Tic-Tac-Toe Game
+
+A responsive implementation of the classic 3×3 strategy game.
+
+Technologies
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Highlights
+
+Two-player gameplay
+
+Winner detection
+
+Draw detection
+
+Reset functionality
+
+Responsive design
+
+🔗 GitHub:https://github.com/trivedi-mihir/tic-tac-toi-game
+
+📸 DREAM Gallery
+
+Social Image-Sharing Platform
+
+A web-based image-sharing application with uploads, captions, likes, comments, and a dynamic gallery.
+
+Technologies
+
+PHP
+
+MySQL
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Highlights
+
+Image upload
+
+Captions
+
+Likes
+
+Comments
+
+Dynamic gallery
+
+PHP + MySQL backend
+
+🔗 GitHub:https://github.com/trivedi-mihir/dream-share-website
+
+🎓 Education
+
+B.Tech — Information Technology
+
+Indus University, Gujarat, India
+
+2023 – 2027 (Expected)
+
+Relevant Coursework
+
+Data Structures & Algorithms
+
+Object-Oriented Programming
+
+Database Management Systems
+
+Operating Systems
+
+Computer Networks
+
+Software Engineering
+
+Web Technologies
+
+🏆 Achievements
+
+🏆 Smart India Hackathon 2025 — National-level participant
+
+💻 50+ DSA Problems Solved — LeetCode & HackerRank
+
+🎓 5+ Industry Certifications
+
+🚀 Multiple Full-Stack Applications Built
+
+🛡️ Deloitte Cybersecurity Job Simulation
+
+📜 Certifications & Professional Learning
+
+The portfolio highlights the following certifications and professional learning experiences:
+
+GeeksforGeeks — Full Stack Web Development
+
+GeeksforGeeks — DevOps — Skill Up
+
+Cisco Networking Academy — Introduction to Cybersecurity
+
+Google — Google Analytics Certification
+
+Microsoft Learn — Education Transformation Framework
+
+Deloitte × Forage — Cybersecurity Job Simulation
+
+The Deloitte simulation included hands-on exposure to threat analysis, security assessment, and incident-response workflows.
+
+🧭 Learning Journey
+
+The portfolio includes an interactive timeline representing important stages of my development journey.
+
+2023 – Present
+
+B.Tech IT — Indus University
+
+Building foundations in DSA, OOP, DBMS, software engineering, and practical development.
+
+2024 – 2025
+
+Full Stack & DevOps Certifications
+
+Developing practical skills in modern web technologies and deployment workflows.
+
+2025
+
+Smart India Hackathon
+
+Participated at the national level and gained experience working on real-world problem statements under time constraints.
+
+Dec 2025 – May 2026
+
+Cybersecurity & Analytics Focus
+
+Expanded into cybersecurity, analytics, security assessment, and data-driven thinking through professional learning experiences.
+
+Now
+
+Open to Opportunities
+
+Actively seeking Software / Full Stack Developer internships and freelance collaborations.
+
+🎨 UI & Design
+
+The portfolio is designed with a modern developer-focused visual system.
+
+Design Features
+
+Clean professional interface
+
+Responsive layouts
+
+Modern cards
+
+Gradient accents
+
+Glass-style navigation
+
+Smooth hover interactions
+
+Scroll reveal animations
+
+Animated counters
+
+Floating particles
+
+Skill progress indicators
+
+Mobile navigation
+
+Dark mode
+
+Custom preloader
+
+Back-to-top button
+
+Scroll progress indicator
+
+🌙 Dark Mode
+
+The portfolio includes a complete Light / Dark theme system.
+
+Users can switch themes from the navigation bar.
+
+The selected theme is stored locally in the browser so the preference can persist between visits.
+
+⏳ Custom Preloader
+
+A custom animated loading experience is displayed when the website initializes.
+
+It includes:
+
+Animated progress ring
+
+Mihir branding
+
+Loading percentage
+
+Animated gradients
+
+Ambient background effects
+
+Grid background
+
+Orbiting visual elements
+
+The preloader also respects the user's color-scheme preference.
+
+📱 Responsive Design
+
+The portfolio is optimized for:
+
+🖥️ Desktop
+
+💻 Laptop
+
+📱 Mobile
+
+📲 Tablet
+
+Responsive behavior adjusts:
+
+Navigation
+
+Project grids
+
+Skills layout
+
+Typography
+
+Buttons
+
+Contact form
+
+Cards
+
+Section spacing
+
+Mobile menu
+
+♿ Accessibility
+
+Accessibility has been considered throughout the implementation.
 
 Implemented features include:
 
-* Semantic HTML
-* Skip-to-content navigation
-* ARIA labels
-* Keyboard focus states
-* Accessible navigation
-* Reduced-motion support
-* Accessible progress bars
-* Mobile navigation controls
+Semantic HTML
 
----
+Skip-to-content navigation
 
-# 📄 Resume Generator
+ARIA labels
 
-The portfolio includes a built-in **Resume Download** feature.
+Keyboard focus states
 
-The resume is generated dynamically as a PDF using **jsPDF**.
+Accessible navigation
 
-The generated resume contains:
+Reduced-motion support
 
-* Career Objective
-* Education
-* Technical Skills
-* Projects
-* Achievements
-* Certifications
-* Interests
-* Contact information
+Accessible progress indicators
 
-The portfolio loads jsPDF and generates an A4 resume directly from the browser.
+Mobile navigation controls
 
----
+The site also includes a prefers-reduced-motion media query to reduce animations for users who request less motion.
 
-# 📬 Contact System
+📄 Browser-Based Resume Generator
 
-Visitors can contact me through the portfolio's contact section.
+The portfolio includes a Download Resume feature powered by jsPDF.
 
-### Available Contact Options
+The resume is generated dynamically as an A4 PDF directly in the browser.
 
-* 📧 Email
-* 📞 Phone
-* 📍 Location
-* 💼 LinkedIn
-* 💻 GitHub
-* 📩 Contact Form
-* 📄 Resume Download
+It includes:
 
-The contact form validates required fields and email format before opening a pre-filled email message.
+Career Objective
 
----
+Education
 
-# 🛠️ Technologies Used
+Technical Skills
 
-## Frontend
+Projects
 
-* HTML5
-* CSS3
-* JavaScript ES6+
+Achievements
 
-## Libraries
+Certifications
 
-* jsPDF
-* Chart.js
-* TensorFlow.js
+Interests
 
-## Fonts
+Contact information
 
-* DM Sans
-* DM Serif Display
-* Space Grotesk
+GitHub
 
-## Development Tools
+LinkedIn
 
-* Git
-* GitHub
-* VS Code
-* Browser DevTools
+No server-side PDF generation is required.
 
----
+📬 Contact System
 
-# 🚀 Getting Started
+The portfolio includes a contact section designed for internship, freelance, and collaboration inquiries.
 
-## 1. Clone the Repository
+Available Contact Options
 
-```bash
+📧 Email
+
+📞 Phone
+
+📍 Location
+
+💼 LinkedIn
+
+💻 GitHub
+
+📩 Contact Form
+
+📄 Resume Download
+
+The contact form performs:
+
+Required-field validation
+
+Email-format validation
+
+User feedback messages
+
+Pre-filled email generation
+
+The form opens the visitor's default email application with the message prepared for sending.
+
+⚙️ Technical Implementation
+
+The project is intentionally built as a lightweight frontend portfolio rather than relying on a large application framework.
+
+Core
+
+HTML5
+
+CSS3
+
+JavaScript ES6+
+
+Libraries
+
+jsPDF
+
+Chart.js
+
+TensorFlow.js
+
+Fonts
+
+DM Sans
+
+DM Serif Display
+
+Space Grotesk
+
+Development Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Browser DevTools
+
+🚀 Getting Started
+
+1. Clone the Repository
+
 git clone https://github.com/trivedi-mihir/portfolio.git
-```
 
-## 2. Open the Project
+2. Open the Project
 
-```bash
 cd portfolio
-```
 
-## 3. Run the Website
+3. Run Locally
 
-Since this is a frontend project, you can simply open:
+This is a frontend project, so the main HTML page can be opened directly in a browser.
 
-```text
-index.html
-```
+For a better development experience, use VS Code Live Server or another local development server.
 
-in your browser.
+🌐 Deployment
 
-For development, you can also use **VS Code Live Server**.
+The portfolio can be deployed using platforms such as:
 
----
+GitHub Pages
 
-# 🌐 Deployment
+Vercel
 
-This portfolio can be deployed using:
+Netlify
 
-* GitHub Pages
-* Vercel
-* Netlify
-* Cloudflare Pages
+Cloudflare Pages
 
-### GitHub Pages
+Current Live Portfolio
 
-The live portfolio is available at:
+https://mihirtrivedi.dev/
 
-```text
-https://trivedi-mihir.github.io/portfolio/
-```
+🔮 Future Improvements
 
----
+Planned improvements include:
 
-# 🔮 Future Improvements
+🖼️ Project screenshots and galleries
 
-Planned enhancements include:
+🔗 More individual project live demos
 
-* 🖼️ Project screenshots and galleries
-* 🔗 Individual project Live Demo links
-* 🔍 Project filtering and search
-* 🪟 Interactive project detail modals
-* 📊 GitHub contribution dashboard
-* 📈 LeetCode / coding statistics
-* 🤖 AI Portfolio Assistant
-* 💻 Interactive developer terminal
-* ⌨️ `Ctrl + K` command palette
-* 📝 Blog / technical articles
-* 🎥 Project demonstration videos
-* 💼 Services / Hire Me section
-* 💬 Testimonials
-* 📬 Advanced email integration
-* 📊 Privacy-friendly visitor analytics
-* 🌐 PWA support
-* 🕹️ Developer Easter eggs and interactive experiences
+🔍 Project filtering and search
 
----
+🪟 Interactive project detail views
 
-# 📈 Development Goals
+📊 GitHub contribution dashboard
 
-The portfolio will continue evolving as I:
+📈 Coding-platform statistics
 
-* Build more real-world applications
-* Solve more DSA problems
-* Learn advanced development technologies
-* Participate in hackathons
-* Explore AI/ML
-* Improve cybersecurity knowledge
-* Contribute to open source
-* Gain professional experience
+🤖 AI Portfolio Assistant
 
----
+💻 Interactive developer terminal
 
-# 👨‍💻 About Me
+⌨️ Command palette
 
-**Mihir Trivedi**
+📝 Technical blog section
 
-B.Tech Information Technology Student
-Full Stack Developer · Software Engineer · AI/ML Enthusiast · Cybersecurity Learner
+🎥 Project demonstration videos
+
+💼 Services / Hire Me section
+
+💬 Testimonials
+
+📬 Advanced email integration
+
+📊 Privacy-friendly visitor analytics
+
+🌐 Progressive Web App support
+
+🕹️ Developer Easter eggs and interactive experiences
+
+📈 Development Goals
+
+This portfolio will continue evolving as I:
+
+Build more real-world applications
+
+Solve more DSA problems
+
+Learn advanced development technologies
+
+Participate in hackathons
+
+Explore AI/ML
+
+Improve cybersecurity knowledge
+
+Contribute to open source
+
+Gain professional software development experience
+
+👨‍💻 About Me
+
+Mihir Trivedi
+
+B.Tech Information Technology StudentFull Stack Developer · Software Engineer · AI/ML Enthusiast · Cybersecurity Learner
 
 I enjoy building practical applications, learning new technologies, and solving real-world problems through software.
 
----
+🤝 Connect With Me
 
-# 🤝 Connect With Me
+💼 LinkedIn
 
-### 📧 Email
+https://linkedin.com/in/mihirtrivediit
 
-[trivedimihir260@gmail.com](mailto:trivedimihir260@gmail.com)
-
-### 💼 LinkedIn
-
-https://linkedin.com/in/mihir-trivediit
-
-### 💻 GitHub
+💻 GitHub
 
 https://github.com/trivedi-mihir
 
-### 🌐 Portfolio
+🌐 Portfolio
 
-https://trivedi-mihir.github.io/portfolio/
+https://mihirtrivedi.dev/
 
----
+📧 Email
 
-# ⭐ Support
+trivedimihir260@gmail.com
 
-If you find this portfolio useful or inspiring, consider giving the repository a **⭐ Star**.
+⭐ Support
 
-Your support motivates me to continue building, learning, and sharing projects.
+If you find this portfolio useful or interesting, consider giving the repository a ⭐ Star.
 
----
+Feedback, suggestions, collaboration ideas, internship opportunities, and project discussions are always welcome.
 
-# 📄 License
+📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
 
 You are welcome to:
 
-* Fork the project
-* Modify the code
-* Learn from the implementation
-* Use it as inspiration for your own portfolio
+Fork the project
 
-Please replace personal information, links, images, and project content if you use this as a template.
+Modify the code
 
----
+Learn from the implementation
 
-# 🙏 Thank You
+Use it as inspiration for your own portfolio
 
-Thank you for visiting my portfolio repository!
-
-If you have feedback, collaboration ideas, internship opportunities, or interesting projects, feel free to connect with me.
-
-**Keep Building. Keep Learning. Keep Shipping. 🚀**
-
----
+If you reuse the project, replace the personal information, links, projects, certifications, and other personal content with your own.
 
 <p align="center">
   <strong>Designed & Built by Mihir Trivedi</strong>
 </p>
 
 <p align="center">
-  ⭐ Star the repository if you like it!
+  🚀 Keep Building. Keep Learning. Keep Shipping.
 </p>
