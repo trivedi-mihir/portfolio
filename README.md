@@ -2,7 +2,7 @@
 
 A modern, responsive, and interactive developer portfolio showcasing my skills, projects, education, certifications, achievements, and software development journey.
 
-🌐 Live Portfolio:https://mihirtrivedi.dev/
+🌐 Live Portfolio:https://trivedi-mihir.github.io/portfolio/
 
 👨‍💻 About
 
