@@ -346,7 +346,8 @@
     .proj-link{font-size:.88rem;font-weight:600;display:inline-flex;align-items:center;gap:.35rem;padding:.38rem 1.1rem;border-radius:40px;transition:all .3s var(--ease)}
     .proj-link.gh{border:1px solid var(--border);color:var(--navy)}
     .proj-link.gh:hover{background:var(--navy);color:var(--bg);border-color:var(--navy);transform:translateY(-2px)}
-    .proj-link.live{background:var(--section-alt);color:var(--slate);border:1px solid var(--border);cursor:default;opacity:.85}
+    .proj-link.live{background:var(--section-alt);color:var(--slate);border:1px solid var(--border)}
+    .proj-link.live:hover{border-color:var(--blue);color:var(--blue)}
 
     /* EDUCATION */
     .edu-certs-grid{display:grid;grid-template-columns:1fr 1fr;gap:2.5rem;align-items:start}
@@ -367,7 +368,7 @@
     .cert-dot{width:9px;height:9px;background:var(--accent);border-radius:50%;flex-shrink:0;box-shadow:0 0 0 3px rgba(14,165,233,.2)}
     .cert-name{font-size:.94rem;font-weight:600;color:var(--navy)}.cert-org{font-size:.84rem;color:var(--slate)}
 
-    /* EXPERIENCE / TIMELINE (new) */
+    /* EXPERIENCE / TIMELINE */
     .timeline{position:relative;padding-left:2rem}
     .timeline::before{content:'';position:absolute;left:7px;top:8px;bottom:8px;width:2px;background:linear-gradient(180deg,var(--blue),var(--accent),transparent)}
     .timeline-item{position:relative;padding-bottom:2rem}
@@ -508,7 +509,7 @@
         <button type="button" class="btn-outline" onclick="downloadResume()">↓ Download Resume</button>
       </div>
       <div class="hero-stats">
-        <div class="hero-stat"><div class="num" data-count="3">0<span>+</span></div><div class="lbl">Full Stack Projects</div></div>
+        <div class="hero-stat"><div class="num" data-count="8">0<span>+</span></div><div class="lbl">Full Stack Projects</div></div>
         <div class="hero-stat"><div class="num" data-count="50">0<span>+</span></div><div class="lbl">DSA Problems</div></div>
         <div class="hero-stat"><div class="num" data-count="5">0<span>+</span></div><div class="lbl">Certifications</div></div>
         <div class="hero-stat"><div class="num" data-count="6">0<span>+</span></div><div class="lbl">Tech Stack</div></div>
@@ -536,7 +537,7 @@
         <div class="ach-item reveal reveal-delay-1"><div class="ach-icon" aria-hidden="true">🏆</div><div class="ach-text"><strong>Smart India Hackathon 2025</strong><span>National-level hackathon participant — SIH 2025</span></div></div>
         <div class="ach-item reveal reveal-delay-2"><div class="ach-icon" aria-hidden="true">💻</div><div class="ach-text"><strong>50+ DSA Problems Solved</strong><span>Across LeetCode and HackerRank platforms</span></div></div>
         <div class="ach-item reveal reveal-delay-3"><div class="ach-icon" aria-hidden="true">🎓</div><div class="ach-text"><strong>5+ Industry Certifications</strong><span>From Google, Cisco, Microsoft, Deloitte &amp; more</span></div></div>
-        <div class="ach-item reveal reveal-delay-4"><div class="ach-icon" aria-hidden="true">🚀</div><div class="ach-text"><strong>3+ Full Stack Applications</strong><span>Built end-to-end from concept to deployment</span></div></div>
+        <div class="ach-item reveal reveal-delay-4"><div class="ach-icon" aria-hidden="true">🚀</div><div class="ach-text"><strong>8+ Full Stack Applications</strong><span>Built end-to-end from concept to deployment</span></div></div>
         <div class="ach-item reveal reveal-delay-5"><div class="ach-icon" aria-hidden="true">🛡️</div><div class="ach-text"><strong>Deloitte Cybersecurity Simulation</strong><span>Threat analysis, incident response &amp; risk mitigation</span></div></div>
       </div>
     </div>
@@ -597,47 +598,135 @@
     <div class="section-label reveal">Portfolio</div>
     <div class="accent-line reveal"></div>
     <h2 class="section-title reveal">Featured Projects</h2>
-    <p class="section-sub reveal">Real-world applications built end-to-end — from concept and design to development and deployment.</p>
+    <p class="section-sub reveal">Real-world applications built end-to-end — from concept and design to development and deployment. All linked to my GitHub.</p>
     <div class="projects-grid">
+
       <article class="project-card reveal">
         <div class="project-top" aria-hidden="true"></div>
         <div class="project-body">
           <div class="project-emoji" aria-hidden="true">🌱</div>
           <h3 class="project-name">EcoReward Pro</h3>
-          <p class="project-desc">AI-assisted smart waste management platform encouraging responsible waste disposal through waste classification, eco-rewards, analytics, and pickup scheduling. Features in-browser AI via TensorFlow.js — no backend required.</p>
-          <div class="project-stack"><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span><span class="stack-tag">Tailwind CSS</span><span class="stack-tag">Chart.js</span><span class="stack-tag">TensorFlow.js</span></div>
+          <p class="project-desc">AI-assisted smart waste management platform with in-browser TensorFlow.js classification, eco-rewards, analytics (Chart.js), pickup scheduling, badges, and leaderboard. Fully client-side.</p>
+          <div class="project-stack"><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span><span class="stack-tag">Tailwind</span><span class="stack-tag">Chart.js</span><span class="stack-tag">TensorFlow.js</span></div>
           <div class="project-links">
-            <a href="https://github.com/trivedi-mihir" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
-            <span class="proj-link live" aria-label="Live demo coming soon">⊙ Live Demo — Coming Soon</span>
+            <a href="https://github.com/trivedi-mihir/eco-reward" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
+            <span class="proj-link live">⊙ Live Demo — Coming Soon</span>
           </div>
         </div>
       </article>
+
       <article class="project-card reveal reveal-delay-1">
         <div class="project-top" aria-hidden="true"></div>
         <div class="project-body">
           <div class="project-emoji" aria-hidden="true">🧠</div>
           <h3 class="project-name">ProQuiz — Quiz Management</h3>
-          <p class="project-desc">Full-stack quiz management with secure session-based authentication, multi-role access (student &amp; admin), quiz timers, scoring, attempt history, and CSRF-safe form handling.</p>
+          <p class="project-desc">Full-stack quiz platform with secure session auth, multi-role access (student/admin), timers, scoring, attempt history, hints, and CSRF-safe forms.</p>
           <div class="project-stack"><span class="stack-tag">PHP</span><span class="stack-tag">MySQL</span><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span></div>
           <div class="project-links">
-            <a href="https://github.com/trivedi-mihir" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
-            <span class="proj-link live" aria-label="Live demo coming soon">⊙ Live Demo — Coming Soon</span>
+            <a href="https://github.com/trivedi-mihir/quiz-game" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
+            <span class="proj-link live">⊙ Live Demo — Coming Soon</span>
           </div>
         </div>
       </article>
+
       <article class="project-card reveal reveal-delay-2">
         <div class="project-top" aria-hidden="true"></div>
         <div class="project-body">
           <div class="project-emoji" aria-hidden="true">📊</div>
           <h3 class="project-name">Student Performance Compare</h3>
-          <p class="project-desc">Web application for educators to compare student performance, generate analytical reports, and visualize academic trends using dynamic charts and RESTful APIs with search, filter, and export functionality.</p>
+          <p class="project-desc">Educator tool to compare student performance, generate analytical reports, and visualize trends with dynamic charts and RESTful APIs (search, filter, export).</p>
           <div class="project-stack"><span class="stack-tag">Node.js</span><span class="stack-tag">MongoDB</span><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span></div>
           <div class="project-links">
             <a href="https://github.com/trivedi-mihir" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
-            <span class="proj-link live" aria-label="Live demo coming soon">⊙ Live Demo — Coming Soon</span>
+            <span class="proj-link live">⊙ Live Demo — Coming Soon</span>
           </div>
         </div>
       </article>
+
+      <article class="project-card reveal">
+        <div class="project-top" aria-hidden="true"></div>
+        <div class="project-body">
+          <div class="project-emoji" aria-hidden="true">✅</div>
+          <h3 class="project-name">todoo-tasks</h3>
+          <p class="project-desc">Modern task &amp; reminder app with priorities, due dates, search/filter, progress ring, dark mode, and LocalStorage persistence. Fully responsive.</p>
+          <div class="project-stack"><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span><span class="stack-tag">LocalStorage</span></div>
+          <div class="project-links">
+            <a href="https://github.com/trivedi-mihir/todo-web" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
+            <a href="https://trivedi-mihir.github.io/todo-web/" target="_blank" rel="noopener noreferrer" class="proj-link live">⊙ Live Demo</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="project-card reveal reveal-delay-1">
+        <div class="project-top" aria-hidden="true"></div>
+        <div class="project-body">
+          <div class="project-emoji" aria-hidden="true">⚡</div>
+          <h3 class="project-name">Electricity Bill Generator</h3>
+          <p class="project-desc">Responsive bill calculator using slab rates (₹5/₹7/₹10), client + server validation, clean UI, and instant results. Great mini-project for PHP beginners.</p>
+          <div class="project-stack"><span class="stack-tag">PHP</span><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span></div>
+          <div class="project-links">
+            <a href="https://github.com/trivedi-mihir/bill-generator" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
+            <span class="proj-link live">⊙ Live Demo — Coming Soon</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="project-card reveal reveal-delay-2">
+        <div class="project-top" aria-hidden="true"></div>
+        <div class="project-body">
+          <div class="project-emoji" aria-hidden="true">🗳️</div>
+          <h3 class="project-name">Online Voting System</h3>
+          <p class="project-desc">Interactive voting app with session-based one-vote-per-user, live percentages, progress bars, winner detection, and modern dashboard UI.</p>
+          <div class="project-stack"><span class="stack-tag">PHP</span><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span><span class="stack-tag">Sessions</span></div>
+          <div class="project-links">
+            <a href="https://github.com/trivedi-mihir/voting-system" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
+            <span class="proj-link live">⊙ Live Demo — Coming Soon</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="project-card reveal">
+        <div class="project-top" aria-hidden="true"></div>
+        <div class="project-body">
+          <div class="project-emoji" aria-hidden="true">📰</div>
+          <h3 class="project-name">AI News Email Agent</h3>
+          <p class="project-desc">Python automation that fetches tech news (NewsAPI), generates AI summaries (Groq/Cohere/etc.), and sends beautiful HTML newsletters on a schedule.</p>
+          <div class="project-stack"><span class="stack-tag">Python</span><span class="stack-tag">NewsAPI</span><span class="stack-tag">Groq</span><span class="stack-tag">SMTP</span></div>
+          <div class="project-links">
+            <a href="https://github.com/trivedi-mihir/news-agent" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
+            <span class="proj-link live">⊙ CLI Tool</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="project-card reveal reveal-delay-1">
+        <div class="project-top" aria-hidden="true"></div>
+        <div class="project-body">
+          <div class="project-emoji" aria-hidden="true">🎮</div>
+          <h3 class="project-name">Tic-Tac-Toe Game</h3>
+          <p class="project-desc">Classic 3×3 strategy game with two-player mode, winner/draw detection, reset, and clean responsive design.</p>
+          <div class="project-stack"><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span></div>
+          <div class="project-links">
+            <a href="https://github.com/trivedi-mihir/tic-tac-toi-game" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
+            <span class="proj-link live">⊙ Live Demo — Coming Soon</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="project-card reveal reveal-delay-2">
+        <div class="project-top" aria-hidden="true"></div>
+        <div class="project-body">
+          <div class="project-emoji" aria-hidden="true">📸</div>
+          <h3 class="project-name">DREAM Gallery</h3>
+          <p class="project-desc">Social image-sharing platform with upload, captions, likes, comments, and dynamic gallery powered by PHP + MySQL.</p>
+          <div class="project-stack"><span class="stack-tag">PHP</span><span class="stack-tag">MySQL</span><span class="stack-tag">HTML5</span><span class="stack-tag">CSS3</span><span class="stack-tag">JavaScript</span></div>
+          <div class="project-links">
+            <a href="https://github.com/trivedi-mihir/dream-share-website" target="_blank" rel="noopener noreferrer" class="proj-link gh">⬡ GitHub</a>
+            <span class="proj-link live">⊙ Live Demo — Coming Soon</span>
+          </div>
+        </div>
+      </article>
+
     </div>
   </div>
 </section>
@@ -690,7 +779,7 @@
   </div>
 </section>
 
-<!-- NEW: JOURNEY / TIMELINE -->
+<!-- JOURNEY / TIMELINE -->
 <section id="experience" aria-label="My journey">
   <div class="container">
     <div class="section-label reveal">My Path</div>
@@ -1095,8 +1184,14 @@
     body('In-browser AI waste classification (TensorFlow.js), eco-rewards, analytics dashboard (Chart.js), and pickup scheduling. Built with HTML5, CSS3, JavaScript, Tailwind CSS.', 8);
     boldBody('ProQuiz — Quiz Management System');
     body('Full-stack quiz platform with session-based auth, multi-role access (student/admin), timers, scoring, attempt history and CSRF protection. PHP, MySQL, HTML/CSS/JS.', 8);
-    boldBody('Student Performance Compare');
-    body('Educator tool for comparing student performance, generating reports and visualizing trends via dynamic charts and REST APIs. Node.js, MongoDB, HTML/CSS/JavaScript.', 8);
+    boldBody('todoo-tasks — Task & Reminder App');
+    body('Modern productivity app with priorities, due dates, search/filter, progress tracking and dark mode. HTML, CSS, JavaScript + LocalStorage. Live: trivedi-mihir.github.io/todo-web/', 8);
+    boldBody('Electricity Bill Generator');
+    body('Slab-based bill calculator with client + server validation. PHP, HTML, CSS, JavaScript.', 8);
+    boldBody('Online Voting System');
+    body('Session-based voting with live percentages, progress bars and winner detection. PHP, HTML, CSS, JS.', 8);
+    boldBody('AI News Email Agent');
+    body('Python automation that fetches tech news, generates AI summaries and sends scheduled HTML newsletters.', 8);
 
     section('ACHIEVEMENTS & CERTIFICATIONS');
     const certs = [
